@@ -11,7 +11,8 @@
 ![Image](https://img.shields.io/badge/-TypeScript-yellow)
 ![Image](https://img.shields.io/badge/-PHP-yellow)
 ![Image](https://img.shields.io/badge/-C-orange)
-![Image](https://img.shields.io/badge/-C%2B%2B-orange)![Image](https://img.shields.io/badge/-Swift-red)
+![Image](https://img.shields.io/badge/-C%2B%2B-orange)
+![Image](https://img.shields.io/badge/-Swift-red)
 
 I code many different "things" and for fun I make a variety of "things" such as:
 
