@@ -26,5 +26,5 @@ I also enjoy learning and working on "things" which are difficult for me so I ca
 I am a gamer by :sparkling_heart: and love PvP :crossed_swords:
 
 I also Teach Unity Classes. (Unprofesionally)  
-- Collected Time Teaching 5h 15m.  
-- Total Classes taught 4.  
+- Collected Time Teaching 6h.  
+- Total Classes taught 5.
