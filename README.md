@@ -26,5 +26,5 @@ I also enjoy learning and working on "things" which are difficult for me so I ca
 
 I am a gamer by :sparkling_heart: and love PvP :crossed_swords:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realQuartzi&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realQuartzi&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realQuartzi&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realQuartzi&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
