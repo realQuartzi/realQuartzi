@@ -18,9 +18,10 @@ Portfolio: https://www.quartzi.io/
 I code many different "things" and for fun I make a variety of "things" such as:
 
 - Video Games 🎮
+- Roblox Games 🤨
 - Discord Bots (C#, JavaScript, Python) 🤖
 - Game Plugins (Minecraft, World of Warcraft) 💾
-- Unity Tools :heart:
+- Unity Tools 💞
 
 I also enjoy learning and working on "things" which are difficult for me so I can learn to overcome these difficulties :muscle:
 
