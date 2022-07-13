@@ -4,10 +4,10 @@
 
 ![image](https://img.shields.io/badge/-C%23-brightgreen)
 ![image](https://img.shields.io/badge/-JavaScript-brightgreen)
-![Image](https://img.shields.io/badge/-Python-green)
+![Image](https://img.shields.io/badge/-LUA-green)
 ![Image](https://img.shields.io/badge/-Java-green)
 ![Image](https://img.shields.io/badge/-HTML%2FCSS-green)
-![Image](https://img.shields.io/badge/-LUA-yellowgreen)
+![Image](https://img.shields.io/badge/-Python-green)
 ![Image](https://img.shields.io/badge/-TypeScript-yellow)
 ![Image](https://img.shields.io/badge/-PHP-yellow)
 ![Image](https://img.shields.io/badge/-C-orange)
