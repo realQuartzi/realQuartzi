@@ -11,8 +11,8 @@ I'm a fullstack developer with a deep specialization in Game Development. From 2
 - **Chronically Up to Date**: Unity Alpha builds, latest .NET versions, SQLite update soon >.<
 
 ## 🚀 Notable Projects
-### 🔮 Project-Fusion (Coming Soon - Open Source)
-A blueprint prototype inspired by FusionFall, providing developers with a complete foundation to create their own FusionFall-style games. Core systems implemented and ready for customization.
+### 🔮 Blueprint-Fusion (Coming Soon - Open Source)
+A blueprint prototype inspired by FusionFall, providing developers with a foundation to create their own FusionFall-style games.
 ### ⚔️ TerraFall (RPG Overhaul Mod) (Coming Soon - Open Source)
 A comprehensive RPG transformation mod for Terraria that completely reimagines the gameplay experience. Built as a passion project for a slower nostalgic pace.  
 
